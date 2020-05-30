@@ -1,0 +1,13 @@
+#header-search-2 .bg {
+    background-image: url('../images/bg-pattern-1-primary.png');
+    background-repeat: repeat;
+    background-position: center;
+    background-size: 200px 200px;
+    opacity:0.2;
+}
+#text-1col--0 .bg {
+    background-image: url('../images/bg-sign-primary.png');
+    background-repeat: no-repeat;
+    background-position: right bottom;
+    opacity: 0.2;
+}
