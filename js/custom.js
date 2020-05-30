@@ -101,6 +101,9 @@ $('.sticky-top').each(function () {
 
 });
 var pAgree = '1';
+window.addEventListener('load', function() {
+	$('a.smooth').smoothScroll({speed: 800});
+});
 
 $('.video-popup').each( function(indx, el){
 	if($(el).closest('.gallery').length === 0) {
