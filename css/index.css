@@ -11,3 +11,7 @@
     background-position: right bottom;
     opacity: 0.2;
 }
+
+#text-1col .bg-wrap {
+	background: #2e4f6a;
+}
