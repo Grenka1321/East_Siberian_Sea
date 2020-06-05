@@ -5,6 +5,16 @@
     background-size: cover;
     opacity: 0.83;
 }
+#sep-bottom-7 .bg-wrap {
+    background-color: rgba(255, 255, 255, 0);
+}
+
+#sep-bottom-7 .bg {
+    background-image: url('../images/bg-fog-bottom.png');
+    background-repeat: repeat-x;
+    background-position: center bottom;
+    background-size: auto 100px;
+}
 #text-1col--0 .bg {
     background-image: url('../images/bg-sign-primary.png');
     background-repeat: no-repeat;
