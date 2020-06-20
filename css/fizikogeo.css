@@ -6,16 +6,6 @@
     background-size: cover;
     opacity: 1;
 }
-#sep-bottom-7 .bg-wrap {
-    background-color: rgba(255, 255, 255, 0);
-}
-
-#sep-bottom-7 .bg {
-    background-image: url('../images/bg-fog-bottom.png');
-    background-repeat: repeat-x;
-    background-position: center bottom;
-    background-size: auto 100px;
-}
 
 #text-2col-2 .bg-wrap {}
 #text-2col-2--4 .bg-wrap {

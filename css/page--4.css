@@ -1,0 +1,18 @@
+#header-modal-text .bg {
+    background-image: url('../images/bg-83.jpg');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity:1;
+}
+#header-search-2 .bg {
+	background-position: center center;
+	background-size: cover;
+	background-image: url('../images/destination-scandinavia-sight-05.jpg');
+}#header-text-8 .bg {
+    background-image: url('../images/bg-82.jpg');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity:0.75;
+}

@@ -1,0 +1,12 @@
+#header-text-text .bg {
+    background-image: url('../images/bg-29.jpg');
+    background-repeat: no-repeat;
+    background-position: center bottom;
+    background-size: cover;
+    opacity: 0.25;
+}
+#header-search-2 .bg {
+	background-position: center center;
+	background-size: cover;
+	background-image: url('../images/destination-scandinavia-sight-05.jpg');
+}

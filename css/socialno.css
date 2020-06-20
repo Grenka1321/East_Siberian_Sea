@@ -1,17 +1,21 @@
 #header-search-2 .bg {
-    background-image: url('../images/ledovit2.jpg');
+    background-image: url('../images/12345.jpg');
     background-repeat: No-repeat;
     background-position: center top;
     background-size: cover;
-    opacity: 0.83;
+    opacity: 0.95;
 }
-#text-1col--0 .bg {
-    background-image: url('../images/bg-sign-primary.png');
+#text-1col .bg {
     background-repeat: no-repeat;
     background-position: right bottom;
     opacity: 0.2;
 }
 
 #text-1col .bg-wrap {
+	background: #ffffff;}
+#text-2col-2--4 .bg-wrap {
+	background: #2e4f6a;
+}
+#text-2col-2--4 .bg-wrap {
 	background: #2e4f6a;
 }

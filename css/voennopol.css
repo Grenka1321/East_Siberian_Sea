@@ -1,7 +1,24 @@
 #header-search-2 .bg {
-    background-image: url('../images/bg-pattern-1-primary.png');
-    background-repeat: repeat;
-    background-position: center;
-    background-size: 200px 200px;
-    opacity:0.2;
+    background-image: url('../images/473.jpg');
+    background-repeat: No-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+}
+#text-2col-3 .bg {
+    background-repeat: no-repeat;
+    background-position: right bottom;
+    opacity: 0.1;
+}
+
+#text-2col-3 .bg-wrap {
+	background: #ffffff;
+}#text-2col-3--1 .bg {
+    background-repeat: no-repeat;
+    background-position: right bottom;
+    opacity: 0.1;
+}
+
+#text-2col-3--1 .bg-wrap {
+	background: #2e4f6a;
 }
